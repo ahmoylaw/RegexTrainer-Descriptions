@@ -9,7 +9,7 @@ My first plugin (ver 1.0.0) for Notepad++ after many times been let down by onli
 
 ver 1.1.0 (22 September 2023)
 - user can save regex
-- enhanced display grid with built-in splitter
+- enhanced display grid with a built-in splitter
 - remove toolbar icon
 
 ![Screenshot 3](https://github.com/ahmoylaw/RegexTrainer-Descriptions/blob/master/screenshot3.png)
