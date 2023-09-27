@@ -20,10 +20,10 @@ My first plugin (**ver 1.0.0** 2 July 2020) for Notepad++ after many times been 
 
 **ver 1.2.0** (27 September 2023)
 - enhanced huge file handling (UI will not take too long time to update result)
-- removed "Copy Regex" and "Clear Regex" buttons for Expression to reduce accidentally clear expression
+- removed "Copy Regex" and "Clear Regex" buttons for Expression to reduce accidentally clearing an expression
 - added 3 buttons "Mark All", "Clear All Marks" and "Copy Mark Text To Clipboard" for Matches
 - Matches will display progress and result on how many matches found
-- added Matches popup menu for copy specific matches
+- added Matches a popup menu for copy specific matched information
 - Changed the label for "Saved Items" to "Saved Regex"
 
 ![Screenshot 5](https://github.com/ahmoylaw/RegexTrainer-Descriptions/blob/master/screenshot5.png)
