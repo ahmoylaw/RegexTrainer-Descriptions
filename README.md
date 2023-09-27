@@ -20,6 +20,7 @@ My first plugin (**ver 1.0.0** 2 July 2020) for Notepad++ after many times been 
 
 **ver 1.2.0** (27 September 2023)
 - enhanced huge file handling (UI will not take too long time to update result)
+- changed listbox to listview for displaying huge number of rows for Matches
 - removed "Copy Regex" and "Clear Regex" buttons for Expression to reduce accidentally clearing an expression
 - added 3 buttons "Mark All", "Clear All Marks" and "Copy Mark Text To Clipboard" for Matches
 - Matches will display progress and result on how many matches found
